@@ -1,7 +1,7 @@
 {
     "tokens": [
         {
-        {
+        
             "id": 0,
             "description": "ConsenSys DevRel NFT Experiments",
             "external_url": "https://discord.gg/j5xm9X5NZP",
@@ -42,7 +42,7 @@
             "external_url": "https://discord.gg/j5xm9X5NZP",
             "image": "https://twemoji.maxcdn.com/svg/2615.svg",
             "name": "DEVREL"
-        }
+        },
         {
             "id": 6,
             "description": "ConsenSys DevRel NFT Experiments",
